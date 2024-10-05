@@ -2,7 +2,7 @@
 Heap data structure is a complete binary tree, nodes at each level are fully filled except the last level, which is filled from left to right.
 
 ## Types of Heap
-**<u>Min Heap:</u>** All the node element should be smaller than its childern elements.
+**<ins>Min Heap:</ins>** All the node element should be smaller than its childern elements.
 
 **<u>Max Heap:</u>** All the node element should be greater than its childern elements.
 
